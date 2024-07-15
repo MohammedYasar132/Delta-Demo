@@ -2,3 +2,4 @@
 This is a demo for Git &amp; Github class.
 # Teacher
 Delta student
+# Legend is born
